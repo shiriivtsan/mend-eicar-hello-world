@@ -1,0 +1,22 @@
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+{
+  "name": "@mend-eicar/hello-world",
+  "version": "1.0.2",
+  "description": "A simple test package that returns the `Hello world` string once you install it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mend.io",
+  "license": "ISC"
+}
