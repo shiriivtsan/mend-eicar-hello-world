@@ -1,7 +1,7 @@
 {
   "name": "@mend-eicar/hello-world",
   "version": "1.0.2",
-  "description": "A  simple test package that returns the `Hello world` string once you install it.",
+  "description": "A simple test package that returns the `Hello world` string once you install it.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
